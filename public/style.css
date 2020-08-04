@@ -2,3 +2,18 @@ h1 {
     font-weight: lighter;
     font-style: italic;
   }
+
+.dark {
+  background-color: #0B3140;
+  color: #fff; 
+  
+  
+}
+.navlink {
+  color: #fff; 
+
+}
+
+.navlink:visited {
+  color: #c1f3f3; 
+}
